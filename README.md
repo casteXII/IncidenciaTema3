@@ -11,13 +11,21 @@ Este usuario puede consultar todas las incidencias, usuarios y técnicos a parte
 tecnicos a que se queden al nivel de usuario
 
 Bienvenido Pablo, tiene usted perfil de adminsitrador
+
 Menú:
+
 1.- Consultar todas las incidencias
+
 2.- Consultar todos los usuarios
+
 3.- Consultar todos los técnicos
+
 4.- Asignar una incidencia a un técnico
+
 5.- Dar de alta a un técnico
+
 6.- Borrar un técnico
+
 7.- Cerrar sesión
 
 ## Menú técnico
@@ -25,21 +33,35 @@ Este usuario puede consultar sus incidencias asignadas, marcar como cerradas y c
 propio perfil y cambiar su clave de acceso.
 
 Menú:
+
 1.- Consultar las incidencias que tengo asignadas
+
 2.- Marcar una incidencia como cerrada
+
 3.- Consultar las incidencias que he resuelto
+
 4.- Mostrar mi perfil
+
 5.- Cambiar clave de acceso
+
 6.- Cerrar sesión
+
 
 ## Menú usuario
 Este usuario tiene las funciones más limitadas ya que puede registrar incidencias, consultar las incidencias abiertas
 y cerradas y cambiar su clave de acceso.
 
 Menú:
+
 1.- Registrar una nueva incidencia
+
 2.- Consultar mis incidencias abiertas
+
 3.- Consultar mis incidencias cerradas
+
 4.- Mostrar mi perfil
+
 5.- Cambiar clave de acceso
+
 6.- Cerrar sesión
+
